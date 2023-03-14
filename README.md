@@ -1,2 +1,1 @@
-# Tinder-clone
-just fun
+TinDog Starting Files
